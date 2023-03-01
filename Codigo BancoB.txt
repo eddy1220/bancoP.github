@@ -1,0 +1,96 @@
+<body>
+    <ul class="MenuPrin"> 
+
+        <li><a href="#"> Tasa de Cambio actual </a></li>
+        <li><a href="#"> Caneles Banreservas </a>
+        <ul>
+            <li><a href="#">App Personas</a></li>
+            <li><a href="#">App Empresas</a></li>
+            <li><a href="#">Cajeros Automaticos</a></li>
+            <li><a href="#">Centro de Contacto</a></li>
+            <li><a href="#">Oficinas Comerciales</a></li>
+            <li><a href="#">Subagente Banreservas</a></li>
+            <li><a href="#">TuBanco Personas</a></li>
+            <li><a href="#">TuBanco Empresa</a></li>
+            <li><a href="#">Asistenete Virtual</a></li>
+            <li><a href="#">Tutoriales Canales</a></li>
+            <li><a href="#">Cita</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> Sobre Nosotros </a>
+        <ul>
+            <li><a href="#">Mision, vision y valores</a></li>
+            <li><a href="#">Noticias y Prensas</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> Mapa </a></li>
+        <li><a href="#"> Calculadoras </a></li>
+        <li><a href="#"> Acceder a tuBanco </a></li>
+       
+    </ul>
+    <ul class ="menu">
+
+        <li><a href="#"> CLIENTE </a>
+        <ul>
+            <li><a href="#">Cuentas</a></li>
+            <li><a href="#">Inversiones</a></li>
+            <li><a href="#">Tarjetas</a></li>
+            <li><a href="#">Seguro</a></li>
+            <li><a href="#">Prestamos</a></li>
+            <li><a href="#">Remesas, impuestos y servicios</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> PREFERENTES </a>
+        <ul>
+            <li><a href="#">Cuentas</a></li>
+            <li><a href="#">Tarjetas</a></li>
+            <li><a href="#">Prestamos</a></li>
+            <li><a href="#">Inversiones</a></li>
+            <li><a href="#">Seguro</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> PYME </a>
+        <ul>
+            <li><a href="#">Tarjetas</a></li>
+            <li><a href="#">financiamientos</a></li>
+            <li><a href="#">seguros</a></li>
+            <li><a href="#">Inversiones</a></li>
+            <li><a href="#">Cuentas</a></li>
+            <li><a href="#">otros servicios</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> EMPRESARIAL </a>
+        <ul>
+            <li><a href="#">Cuentas</a></li>
+            <li><a href="#">Tarjetas</a></li>
+            <li><a href="#">seguros</a></li>
+            <li><a href="#">financiamientos</a></li>
+            <li><a href="#">Inversiones</a></li>
+        </ul>
+        </li>
+
+        <li><a href="#"> GUBERNAMENTAL </a>
+        <ul>
+            <li><a href="#">Cuentas</a></li>
+            <li><a href="#">Inversiones</a></li>
+            <li><a href="#">seguros</a></li>
+            <li><a href="#">Tarjetas</a></li>
+            <li><a href="#">Prestamos</a></li>
+        </ul>
+        </li>
+    </ul>
+
+    
+
+</body> 
+
+
+
+
+
+</html>
